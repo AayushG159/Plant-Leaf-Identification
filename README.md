@@ -10,7 +10,7 @@ A dataset was created using the extracted features to train and test the model. 
 
 ## Dataset
 
-The dataset used is **Flavia leaves dataset** which can be downloaded from [here](http://flavia.sourceforge.net)
+The dataset used is [**Flavia leaves dataset**](http://flavia.sourceforge.net) which also has the breakpoints and the names mentioned for the leaves dataset
 
 ## Dependencies
 
